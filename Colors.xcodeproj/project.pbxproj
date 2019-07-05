@@ -13,6 +13,7 @@
 		97960E0422C1C16300E158ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97960E0222C1C16300E158ED /* LaunchScreen.storyboard */; };
 		97960E0C22C3203A00E158ED /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97960E0B22C3203A00E158ED /* ColorsViewController.swift */; };
 		97960E0E22C3252700E158ED /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97960E0D22C3252700E158ED /* Color.swift */; };
+		97FCDD2822CEC6FD001954E6 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97FCDD2722CEC6FC001954E6 /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		97960E0522C1C16300E158ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97960E0B22C3203A00E158ED /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 		97960E0D22C3252700E158ED /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		97FCDD2722CEC6FC001954E6 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				97960E0522C1C16300E158ED /* Info.plist */,
 				97960E0B22C3203A00E158ED /* ColorsViewController.swift */,
 				97960E0D22C3252700E158ED /* Color.swift */,
+				97FCDD2722CEC6FC001954E6 /* ColorDetailViewController.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				97960E0C22C3203A00E158ED /* ColorsViewController.swift in Sources */,
 				97960DFA22C1C16000E158ED /* AppDelegate.swift in Sources */,
 				97960E0E22C3252700E158ED /* Color.swift in Sources */,
+				97FCDD2822CEC6FD001954E6 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
